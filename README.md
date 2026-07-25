@@ -82,3 +82,16 @@ jupyter notebook
 
 Estudiante de Tecnicatura en Análisis de Datos - UBA
 Buscando oportunidades de pasantías en Data Analytics 🚀
+
+## 📌 Conclusiones
+
+- Se identificaron patrones en la cantidad vendida a lo largo del tiempo
+- Algunas fechas presentan picos de ventas
+- Los datos contienen valores faltantes que podrían afectar el análisis
+- Este análisis puede servir como base para futuras predicciones
+
+## 🚀 Próximos pasos
+
+- Analizar ventas por producto
+- Calcular ingresos por día
+- Implementar modelos predictivos
