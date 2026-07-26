@@ -19,6 +19,11 @@ Este proyecto consiste en un análisis exploratorio de datos (EDA) sobre un conj
 
 ## 📂 Estructura del proyecto
 
+## 📁 Proyectos
+
+- 📊 Análisis de ventas → [ver notebook](link)
+- 👥 Análisis de clientes → [ver notebook](link)
+
 ```
 📦 analisis-ventas
  ┣ 📂 data
