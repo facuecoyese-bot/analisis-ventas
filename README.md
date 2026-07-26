@@ -18,8 +18,9 @@ Este proyecto consiste en un análisis exploratorio de datos (EDA) sobre un conj
 
 ## 📁 Proyectos
 
-- 📊 Análisis de ventas → [ver notebook](https://github.com/facuecoyese-bot/analisis-ventas/blob/main/analisis-ventas.ipynb)
-- 👥 Análisis de clientes → [ver notebook](PEGAR_LINK_CLIENTES_ACA)
+- 📊 Análisis de ventas → [ver notebook](LINK1)
+- 👥 Análisis de clientes → [ver notebook](LINK2)
+- 📈 Tendencias de ventas → [ver notebook](LINK3)
 
 ## 🔍 Análisis realizado
 
