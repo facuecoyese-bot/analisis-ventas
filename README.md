@@ -99,4 +99,11 @@ Buscando oportunidades de pasantías en Data Analytics 🚀
 
 - Analizar ventas por producto
 - Calcular ingresos por día
+
+
+https://github.com/facuecoyese-bot/analisis-ventas/blob/main/analisis-ventas.ipynb
+
+
+
+
 - Implementar modelos predictivos
